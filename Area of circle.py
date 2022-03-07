@@ -1,12 +1,7 @@
-
-def areaofcircle():
-    pi = 3.1459
-    radius = 1
+pi = 3.14159
+def area_of_circle(radius):
     area = pi * (radius**2)
-    print(area)
-
-areaofcircle()
-
+    return area
 
 
 
