@@ -1,3 +1,4 @@
 print("Hi Harsha !")
-print("how are you doing ?")
+input ("How are you ?") 
+print("I am doing good too, thanks")
 
